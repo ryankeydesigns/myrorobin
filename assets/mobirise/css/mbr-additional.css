@@ -102,7 +102,7 @@ body {
   background-color: #4479d9 !important;
 }
 .bg-success {
-  background-color: #0050e1 !important;
+  background-color: #1b75bc !important;
 }
 .bg-info {
   background-color: #47b5ed !important;
@@ -181,8 +181,8 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #0050e1 !important;
-  border-color: #0050e1 !important;
+  background-color: #1b75bc !important;
+  border-color: #1b75bc !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
@@ -191,15 +191,15 @@ body {
 .btn-success.focus,
 .btn-success.active {
   color: #ffffff !important;
-  background-color: #00318a !important;
-  border-color: #00318a !important;
+  background-color: #104670 !important;
+  border-color: #104670 !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #00318a !important;
-  border-color: #00318a !important;
+  background-color: #104670 !important;
+  border-color: #104670 !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -355,23 +355,23 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background-color: transparent !important;
-  border-color: #0050e1;
-  color: #0050e1;
+  border-color: #1b75bc;
+  color: #1b75bc;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus,
 .btn-success-outline.active {
-  color: #00318a !important;
+  color: #104670 !important;
   background-color: transparent!important;
-  border-color: #00318a !important;
+  border-color: #104670 !important;
   box-shadow: none!important;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #0050e1 !important;
-  border-color: #0050e1 !important;
+  background-color: #1b75bc !important;
+  border-color: #1b75bc !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -464,7 +464,7 @@ body {
   color: #ff6666 !important;
 }
 .text-success {
-  color: #0050e1 !important;
+  color: #1b75bc !important;
 }
 .text-info {
   color: #47b5ed !important;
@@ -494,7 +494,7 @@ a.text-secondary.active {
 a.text-success:hover,
 a.text-success:focus,
 a.text-success.active {
-  color: #002c7b !important;
+  color: #0e3d63 !important;
 }
 a.text-info:hover,
 a.text-info:focus,
@@ -579,7 +579,7 @@ a:hover {
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #aecbff;
+  color: #6db3ea;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -1107,7 +1107,7 @@ a {
   top: 0;
 }
 .cid-ty0nK4d3JW .mbr-section-title {
-  color: #0050e1;
+  color: #1b75bc;
 }
 .cid-ty0nkxUcRS {
   padding-top: 1rem;
@@ -1399,7 +1399,7 @@ a {
 .cid-ty0wFzP4M0 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #0050e1;
+  background-color: #1b75bc;
   overflow: hidden;
 }
 .cid-ty0uYpS06u {
@@ -1832,7 +1832,7 @@ a {
   object-fit: cover;
 }
 .cid-ty0CUVW7Xf .card-title {
-  color: #0050e1;
+  color: #1b75bc;
 }
 .cid-ty0NtUY1yg {
   padding-top: 6rem;
@@ -1981,7 +1981,7 @@ a {
 .cid-ty0wFzP4M0 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #0050e1;
+  background-color: #1b75bc;
   overflow: hidden;
 }
 .cid-ty0v0Abenp {
@@ -2411,7 +2411,7 @@ a {
   margin-top: auto !important;
 }
 .cid-ty0Gsg7Bnw .mbr-section-title {
-  color: #232323;
+  color: #1b75bc;
 }
 .cid-ty0Gsg7Bnw .mbr-text,
 .cid-ty0Gsg7Bnw .mbr-section-btn {
@@ -2419,6 +2419,7 @@ a {
 }
 .cid-ty0Gsg7Bnw .item-title {
   text-align: center;
+  color: #1b75bc;
 }
 .cid-ty0Gsg7Bnw .item-subtitle {
   text-align: left;
@@ -2453,7 +2454,7 @@ a {
 .cid-ty0wFzP4M0 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #0050e1;
+  background-color: #1b75bc;
   overflow: hidden;
 }
 .cid-ty0v33lbgx {
@@ -2850,7 +2851,7 @@ a {
   align-items: center;
 }
 .cid-ty0IEGGa9X .mbr-iconfont {
-  color: #0050e1;
+  color: #1b75bc;
 }
 @media (max-width: 767px) {
   .cid-ty0IEGGa9X .row {
@@ -2915,13 +2916,13 @@ a {
   width: 2rem;
 }
 .cid-ty0IEGGa9X .mbr-section-subtitle {
-  color: #0050e1;
+  color: #1b75bc;
 }
 .cid-ty0IEGGa9X .mbr-text {
   color: #5b6c8f;
 }
 .cid-ty0IEGGa9X .phone {
-  color: #0050e1;
+  color: #1b75bc;
 }
 .cid-ty0IEGGa9X .list,
 .cid-ty0IEGGa9X .mbr-section-btn {
@@ -2957,6 +2958,6 @@ a {
 .cid-ty0wFzP4M0 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #0050e1;
+  background-color: #1b75bc;
   overflow: hidden;
 }
